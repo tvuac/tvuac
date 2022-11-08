@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Teresa
-- 🌱 I’m currently learning Java, HTML & CSS.
+- 🌱 I’m currently learning Java, HTML, CSS and JavaScript.
 
 <!---
 tvuac/tvuac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
